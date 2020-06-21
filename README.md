@@ -1,6 +1,4 @@
-# Analise-Numerica
-
-<center> Implementação de métodos numéricos em Python </center>
+#Implementação de métodos numéricos em Python
 
 Um dos grandes avanços no estudo matemático de diversos fenômenos descritos por equações diferenciais, foi  a possibilidade de obter soluções numéricas destas equações às quais a obtenção de soluções analíticas eram de extrema dificuldade quando não eram impossíveis. 
  
@@ -11,7 +9,7 @@ Aqui implementamos os métodos:
 2. Newton,
 3. Série de Taylor,
 4. Euler,
-5. Runge-Kutta de 2° e 4° ordem,
+5. Runge-Kutta de 2ª e 4ª ordem,
 6. Adams-Bachforth, 
 7. Milne.    
 
