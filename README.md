@@ -4,7 +4,7 @@
 
 Um dos grandes avanços no estudo matemático de diversos fenômenos descritos por equações diferenciais, foi  a possibilidade de obter soluções numéricas destas equações às quais a obtenção de soluções analíticas eram de extrema dificuldade quando não eram impossíveis. 
  
-Neste trabalho apresentamos uma lista de resoluções numéricas para equações diferenciais de $2^{a}$ e $4^{a}$ ordem com valor inicial e condições de contorno. Tais equações foram propostas como atividade avaliativa da disciplina de Análise Numérica, quando cursava o Bacharelado em Matemática na Universidade Federal do Recôncavo da Bahia (UFRB). No primeiro momento essas resoluções foram desenvolvidas em Matlab, no entanto, motivado pelo uso exponencial da linguagem Python e sua versatibilidade trouxe a reapresentação dos resultados nesta linguagem tão poderosa.
+Neste trabalho apresentamos uma lista de resoluções numéricas para equações diferenciais de 2ª e 4ª ordem com valor inicial e condições de contorno. Tais equações foram propostas como atividade avaliativa da disciplina de Análise Numérica, quando cursava o Bacharelado em Matemática na Universidade Federal do Recôncavo da Bahia (UFRB). No primeiro momento essas resoluções foram desenvolvidas em Matlab, no entanto, motivado pelo uso exponencial da linguagem Python e sua versatibilidade trouxe a reapresentação dos resultados nesta linguagem tão poderosa.
 
 Aqui implementamos os métodos:
 1. Diferenças Finitas,
