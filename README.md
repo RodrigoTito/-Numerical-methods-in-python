@@ -1,4 +1,4 @@
-#Implementação de métodos numéricos em Python
+# Implementação de métodos numéricos em Python
 
 Um dos grandes avanços no estudo matemático de diversos fenômenos descritos por equações diferenciais, foi  a possibilidade de obter soluções numéricas destas equações às quais a obtenção de soluções analíticas eram de extrema dificuldade quando não eram impossíveis. 
  
